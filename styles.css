@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+#main{
+	background-color:#eeeee4;
+	height:100vh;
+	width:100vw;
+}
+
+#testimonial{
+	padding:5px;
+}
+#author{
+  text-align:left;
+	font-style:italic;
+	margin-left:500px;
+}
+#test{
+		border:1px solid black;
+
+	background-color:white;
+	padding:3px;
+	padding-left:2px;
+	margin:10px;
+}
